@@ -19,4 +19,4 @@ Here in this project I have made To-do list application in React - UI and compon
 
 ## SnapShot
 
-![screen-shot](./client/public/snapshot-of-todo.png)
+![screen-shot](./public/snapshot-of-todo.png)
