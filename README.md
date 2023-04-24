@@ -12,7 +12,6 @@ Here in this project I have made To-do list application in React - UI and compon
 
 ## How to use
 
-- change directory to client ``cd client``
 - install node module ``npm install``
 - run command ``npm run dev``
 - now go to [http://localhost:5173/](http://localhost:5173/)
